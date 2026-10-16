@@ -1,0 +1,21 @@
+# Repository-local files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Future Python release
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Training artifacts
+checkpoints/
+outputs/
+logs/
+wandb/
+*.ckpt
+*.pth
+*.pt
