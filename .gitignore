@@ -1,6 +1,7 @@
 # Repository-local files
 .DS_Store
 Thumbs.db
+NUL
 .idea/
 .vscode/
 
